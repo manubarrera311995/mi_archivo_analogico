@@ -1,0 +1,21 @@
+{
+  "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/page-3.json",
+  "items": [
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/image-3.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/canvas-3.json",
+      "body": {
+        "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/3/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1515,
+        "width": 1726
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

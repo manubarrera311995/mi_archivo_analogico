@@ -1,0 +1,30 @@
+{
+  "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Teen_Vogue07/manifest/canvas-1.json",
+  "items": [
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Teen_Vogue07/manifest/page-1.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Teen_Vogue07/manifest/image-1.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Teen_Vogue07/manifest/canvas-1.json",
+          "body": {
+            "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Teen_Vogue07/1/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2744,
+            "width": 2164
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 2164,
+  "height": 2744,
+  "annotations": []
+}

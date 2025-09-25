@@ -1,0 +1,132 @@
+{
+  "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Up All Night"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/canvas-0.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1498,
+                "width": 1669
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1669,
+      "height": 1498,
+      "annotations": []
+    },
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/canvas-1.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/page-1.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/image-1.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/canvas-1.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/1/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2461,
+                "width": 3507
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 3507,
+      "height": 2461,
+      "annotations": []
+    },
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/canvas-2.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/page-2.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/image-2.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/canvas-2.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3507,
+                "width": 2480
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2480,
+      "height": 3507,
+      "annotations": []
+    },
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/canvas-3.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/page-3.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/image-3.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/manifest/canvas-3.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_1D04/3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1515,
+                "width": 1726
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1726,
+      "height": 1515,
+      "annotations": []
+    }
+  ]
+}

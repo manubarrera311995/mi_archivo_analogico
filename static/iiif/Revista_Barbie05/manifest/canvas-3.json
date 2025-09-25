@@ -1,0 +1,30 @@
+{
+  "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Barbie05/manifest/canvas-3.json",
+  "items": [
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Barbie05/manifest/page-3.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Barbie05/manifest/image-3.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Barbie05/manifest/canvas-3.json",
+          "body": {
+            "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Barbie05/3/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 3208,
+            "width": 2400
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 2400,
+  "height": 3208,
+  "annotations": []
+}

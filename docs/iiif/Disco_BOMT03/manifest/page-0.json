@@ -1,0 +1,21 @@
+{
+  "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_BOMT03/manifest/page-0.json",
+  "items": [
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_BOMT03/manifest/image-0.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_BOMT03/manifest/canvas-0.json",
+      "body": {
+        "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_BOMT03/0/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1481,
+        "width": 1684
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

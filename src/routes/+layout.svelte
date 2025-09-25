@@ -1,5 +1,6 @@
 <svelte:head>
   <style>
+      @import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Double+Ink:wght@100..900&family=Castoro:ital@0;1&display=swap');
       @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
   </style>
 </svelte:head>
@@ -10,10 +11,10 @@
   :global(:root){
     --stroke: black; /* Font color */
     --fill: #fdfcfa; /* Background color */
-    --accent1: #c9e2ef; /* Main color */
+    --accent1: #eb6de0; /* Main color */
     --accent2: #0b456c; /* Higlights color */
     --mainfont: "Lato", sans-serif;
-    --headerfont: "Lato", sans-serif;
+    --headerfont: "Castoro", serif;
     font-family: var(--mainfont);
   }
 

@@ -1,0 +1,162 @@
+{
+  "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Pop Star!"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/canvas-0.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3168,
+                "width": 2434
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2434,
+      "height": 3168,
+      "annotations": []
+    },
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/canvas-1.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/page-1.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/image-1.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/canvas-1.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/1/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3507,
+                "width": 2480
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2480,
+      "height": 3507,
+      "annotations": []
+    },
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/canvas-2.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/page-2.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/image-2.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/canvas-2.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3167,
+                "width": 2467
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2467,
+      "height": 3167,
+      "annotations": []
+    },
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/canvas-3.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/page-3.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/image-3.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/canvas-3.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3136,
+                "width": 2432
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2432,
+      "height": 3136,
+      "annotations": []
+    },
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/canvas-4.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/page-4.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/image-4.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/canvas-4.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/4/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3165,
+                "width": 2241
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2241,
+      "height": 3165,
+      "annotations": []
+    }
+  ]
+}

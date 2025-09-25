@@ -1,0 +1,30 @@
+{
+  "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_HolaTS03/manifest/canvas-5.json",
+  "items": [
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_HolaTS03/manifest/page-5.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_HolaTS03/manifest/image-5.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_HolaTS03/manifest/canvas-5.json",
+          "body": {
+            "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_HolaTS03/5/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 3507,
+            "width": 2480
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 2480,
+  "height": 3507,
+  "annotations": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_Speak_Now02/manifest/page-6.json",
+  "items": [
+    {
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_Speak_Now02/manifest/image-6.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_Speak_Now02/manifest/canvas-6.json",
+      "body": {
+        "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Disco_Speak_Now02/6/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1519,
+        "width": 1706
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

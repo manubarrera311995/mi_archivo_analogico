@@ -1,0 +1,15 @@
+{
+  "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/image-4.json",
+  "items": [],
+  "type": "Annotation",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "motivation": "painting",
+  "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/manifest/canvas-4.json",
+  "body": {
+    "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Revista_Pop_Star04/4/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 3165,
+    "width": 2241
+  }
+}

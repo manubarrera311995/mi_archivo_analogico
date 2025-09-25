@@ -1,5 +1,15 @@
-pid,label,autor,fecha
-AdriaenCollaert,America Tortuga,Adriaen Collaert,1586
-JohannSadeler,America Loro,Johann Sadeler,1581
-PhilipsGalle,America Composición,Philips Galle,1547
-PhilipsGalle2,America Cabeza,Philips Galle,1585
+pid,label,articulo,pais_de_fabricacion ,fecha_de_adquisicion ,fecha_de_publicacion,colores ,marca,ciudad_de_compra,casa_editorial,pais_de_compra,tema,portada,cancion_asociada_al_objeto,artista,imagenes 
+Revista_Vogue01,Vogue,Revista ,España,01/08/2024,01/08/2024,"Blanco, Rosado, Verde",Vogue,Madrid,Condé Nast,España,Moda,Un Lugar Feliz,Lady Madrid,Pereza,"Vogue_001, Vogue_002, Vogue_003, Vogue_004, Vogue_005"
+Revista_Telva02,Telva,Revista ,España,01/08/2025,01/08/2025,"Rojo, Negro, Blanco",Telva,Madrid,Ediciones Conica,España,Moda,Vistazo de Otoño,Los Tontos,C.Tangana,"Telva_001, Telva_002, Telva_003, Telva_004, Telva_005"
+Revista_HolaTS03,Hola! Taylor Swift,Revista ,España,30/06/2024,15/05/2024,"Rosado, Brillantes",Hola! Número Especial,Madrid,Ediciones Hola!,España,Música,Taylor Swift ,Long Live,Taylor Swift,"Taylor Swift_001, Taylor Swift_002, Taylor Swift_003, Taylor Swift_004, Taylor Swift_005, Taylor Swift_006"
+Revista_Pop_Star04,Pop Star!,Revista ,Estados Unidos,21/12/2010,01/12/2010,"Morado, Amarillo, Blanco",Pop Star!,Richmond,Popstar Publishing,Estados Unidos,Entretenimiento,"Justin Bieber, Selena Gómez, Nick Jonas, Cody Simpson, Taylor Lautner",Teenage Dream,Katy Perry,"Pop Star_001, Pop Star_002, Pop Star_003, Pop Star_004, Pop Star_005"
+Revista_Barbie05,Barbie,Revista ,Colombia,15/02/2002,01/02/2002,"Naranja, Amarillo, Morado, Rosado, Brillantes",Barbie,Bogotá,Editora Cinco Cultural,Colombia ,Entretenimiento,Barbie Rock & Roll,La Calle de Las Sirenas,Kabah,"Barbie_001, Barbie_002, Barbie_003, Barbie_004"
+Revista_Tu06,Tú ,Revista ,Colombia,25/07/2011,06/07/2011,"Verde, Azul",Tú,Bogotá,Editorial Televisa,Colombia ,Entretenimiento,Harry Potter,Donde estés llegaré,Alexis y Fido,"Tú_001, Tú_002, Tú_003, Tú_004"
+Revista_Teen_Vogue07,Teen Vogue One Direction,Revista ,Inglaterra,25/12/2012,01/12/2012,Azul,Teen Vogue,Londres,Condé Nast,Inglaterra,Música,One Direction,Live While We Are Young,One Direction,"Teen Vogue_001, Teen Vogue_002, Teen Vogue_003"
+Revista_Veranda08,Veranda,Revista ,Estados Unidos ,04/05/1995,01/04/1995,"Verde, Azul",Veranda,Nueva York,Hearst Magazines,Estados Unidos,Decoración ,Jardín Secreto,Don't Look Back in Anger,Oasis,"Veranda_001, Veranda_002, Veranda_003, Veranda_004"
+Disco_Red01,Red,CD,Estados Unidos ,23/12/2012,22/10/2012,Rojo,Taylor Swift ,Atlanta,Big Machine Records,Estados Unidos,Música,Taylor Swift ,Red,Taylor Swift,"Red_001, Red_002, Red_003, Red_004, Red_005, Red_006"
+Disco_Speak_Now02,Speak Now,CD,Estados Unidos ,21/12/2010,25/10/2010,"Blanco, Brillantes, Morado",Taylor Swift ,Washington D.C.,Big Machine Records,Estados Unidos,Música,Taylor Swift ,The Story of Us,Taylor Swift,"Speak Now_001, Speak Now_002, Speak Now_003, Speak Now_004, Speak_005, Speak Now_006, Speak Now_007"
+Disco_BOMT03,...Baby One More Time,CD,Estados Unidos ,31/08/1999,12/01/1999,"Azul, Amarillo",Britney Spears ,Bogotá,EMI,Colombia ,Música,Britney Spears,(You Drive Me) Crazy,Britney Spears,"Britney Spears_001, Britney Spears_002, Britney Spears_003"
+Disco_1D04,Up All Night,CD,Inglaterra,17/09/2012,18/11/2011,"Azul, Negro",One Direction,Londres,Sony Music,Inglaterra,Música,One Direction,One Thing,One Direction,"One Direction_001, One Direction_002, One Direction_003, One Direction_004"
+Juguete_Polly_Pocket01,Cámara de Polly Pocket,Juguete,China ,31/08/1999,14/11/1998,"Morado, Verde, Amarillo, Rosado",Polly Pocket ,Bogotá,Bluebird Toys,Colombia ,Entretenimiento,N/A,Closing Time,Semisonic,
+Juguete_Diario02,Diario Secreto de Barbie,Juguete,China ,31/08/2006,01/01/2006,"Rosado, Negro",Barbie,Bogotá,Mattel,Colombia ,Entretenimiento,N/A,Barman ,San Alejo,
