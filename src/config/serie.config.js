@@ -2,7 +2,7 @@ const config = {
   "lang": "es",
   "localPort": "5173",
   "base": "https://manubarrera311995.github.io",
-  "baseurl": "/serie-mini",
+  "baseurl": "/mi_archivo_analogico",
   "title": "Archivo 95'",
   "subtitle": "Bienvenidx a mi relicario pop.",
   "credits": "Por Manuela Barrera Nieto",

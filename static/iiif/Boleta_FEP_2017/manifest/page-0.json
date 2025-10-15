@@ -1,15 +1,15 @@
 {
-  "id": "https://manubarrera311995.github.io/serie-mini/iiif/Boleta_FEP_2017/manifest/page-0.json",
+  "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Boleta_FEP_2017/manifest/page-0.json",
   "items": [
     {
-      "id": "https://manubarrera311995.github.io/serie-mini/iiif/Boleta_FEP_2017/manifest/image-0.json",
+      "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Boleta_FEP_2017/manifest/image-0.json",
       "items": [],
       "type": "Annotation",
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "motivation": "painting",
-      "target": "https://manubarrera311995.github.io/serie-mini/iiif/Boleta_FEP_2017/manifest/canvas-0.json",
+      "target": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Boleta_FEP_2017/manifest/canvas-0.json",
       "body": {
-        "id": "https://manubarrera311995.github.io/serie-mini/iiif/Boleta_FEP_2017/0/full/max/0/default.jpg",
+        "id": "https://manubarrera311995.github.io/mi_archivo_analogico/iiif/Boleta_FEP_2017/0/full/max/0/default.jpg",
         "type": "Image",
         "format": "image/jpeg",
         "height": 943,
