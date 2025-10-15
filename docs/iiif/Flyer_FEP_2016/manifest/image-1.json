@@ -1,0 +1,15 @@
+{
+  "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/image-1.json",
+  "items": [],
+  "type": "Annotation",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "motivation": "painting",
+  "target": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/canvas-1.json",
+  "body": {
+    "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/1/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 1391,
+    "width": 1673
+  }
+}

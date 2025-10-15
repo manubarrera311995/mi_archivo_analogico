@@ -9,17 +9,28 @@ layout: page
 
 # Metadatos
 
-En esta sección se encuentran los metadatos de la colección. Pueden descargarse y usarse libremente.
+Si llegaste hasta aquí, vas a encontrar los metadatos de la colección. Están listos para que los descargues y los uses como quieras.
 
 ## Protocolo
 
-Este es el protocolo que especifica la construcción de los datos de la colección:
+Te muestro cómo construí mi colección, así tú también te inspiras en hacer una. 
 
 | Dato   | Descripción                                                                     |  Tipo      |
 |---     |---                                                                              |---         |
 | pid    | Identificador único                                                             | categórico |
-| label  | Nombre de la obra. Iniciales con mayúsculas                                     | categórico |
-| autor  | Autor de la obra. Inciales con mayúsculas, incluir acentos                      | categórico |
-| fecha  | Año aproximado de producción de la obra. Escrito en número completo (p.ej 1589) | ordinal    |
-
+| label  | Nombre del objeto. Escribe las iniciales con mayúsculas.                      | categórico |
+| artículo | Tipo de objeto. Escribe las iniciales con mayúsculas e incluye acentos.     | categórico |
+| país de fabricación | País donde fue fabricado el objeto. Escribe las iniciales con mayúsculas e incluye acentos.     | categórico |
+| fecha de adquisición  | Año aproximado en el que fue comprado el objeto. Escribe la fecha en formato YYYY-MM-DD. | ordinal    |
+| fecha de publicación  | Año aproximado en el que fue publicado o fabricado el objeto. Escribe la fecha en formato YYYY-MM-DD. | ordinal    |
+| colores | Lista de colores asociados al objeto. No hay orden ni jerarquía. Escribe las iniciales con mayúsculas e incluye acentos.     | categórico |
+| marca  | Marca, sello editorial o musical del objeto. Escribe las iniciales con mayúsculas.                      | categórico |
+| ciudad de compra| Ciudad donde fue comprado el objeto. Escribe las iniciales con mayúsculas e incluye acentos.     | categórico |
+| casa editorial | Editorial, marca o disquera responsable de la publicación. Escribe las iniciales con mayúsculas e incluye acentos. | categórico |
+| país de compra | País donde fue comprado el objeto. Escribe las iniciales con mayúsculas e incluye acentos.  | categórico |
+| tema | Temática principal del objeto (Moda, Música, Entretenimiento). Escribe las iniciales con mayúsculas e incluye acentos. | categórico |
+| portada | Título o tema de portada del objeto. Escribe las iniciales con mayúsculas e incluye acentos. | categórico |
+| canción asociada al objeto | Nombre de la canción asociada al objeto. Escribe las iniciales con mayúsculas e incluye acentos. | categórico |
+| artista | Nombre del artista que hizo la canción asociada al objeto. Escribe las iniciales con mayúsculas e incluye acentos. | categórico |
+| imagenes | Nombre del archivo de la imagen asociada al objeto. Escribe la inicial en mayúsculas y sin espacios. Usa guiones medios para separar palabras (ejemplo:Vogue_001, Vogue_002…) | categórico |
 <MetadataTable />

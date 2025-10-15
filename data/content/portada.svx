@@ -3,6 +3,24 @@ name: home
 layout: home
 ---
 
-# Recuerdan los 90s
+# Esa realidad en la que crecimos, desapareció.
 
-Esto son revistas, discos y juguetes que te llevarán a un lugar de tu infancia que quizás no existe más. 
+ 
+¿Te acuerdas de esas tardes interminables en las que jugabas en tu cuarto con _Barbies_, _Kens_, _Max Steels_, _Hot Wheels_ o —si eras de los afortunados— con la Heladería _Kreisell Supra_? De cuando llegabas del colegio, dejabas la maleta llena de libros y cuadernos (que pesaban toneladas) tirada en la entrada de tu casa, y encendías el televisor para ver _Padres e Hijos_, _La Rosa de Guadalupe_ o incluso _Séptima Puerta_.
+
+O quizás, a veces, se te vienen a la mente esas noches en las que no podías dormir y no te quedaba más opción que escuchar música en un Discman con el CD que te habían regalado por tu cumpleaños, o en un iPod lleno de canciones que descargabas de _Ares_ o _LimeWire_ (junto con unos cuantos virus que, inevitablemente, dañaban tu computador).
+
+También puede que recuerdes cuando descubriste series como _Skins_, _Rebelde_, _The O.C._, _Laguna Beach_, _Niñas Mal_ o _Gossip Girl_, y te creías uno de esos personajes desenfadados e incomprendidos que no le tenían miedo a romper las reglas o desafiar la autoridad (aunque en esa época apenas tuvieras once años y te tocara ver esos programas a escondidas).
+
+Y seguro, de vez en cuando, piensas en las veces que te reunías con tus amigxs y, además de jugar tin tin corre corre con los del conjunto, pasaban horas desentrañando cada sección de la revista _Tú_, _Teen Vogue_ o _Vanity Fair_. Hacían los test de compatibilidad con sus crushes de la época y se morían de la risa leyendo las anécdotas de “Trágame tierra”.
+
+Puede que el pasado en el que creciste ya no exista, pero sin duda aún te quedan huellas, recuerdos y objetos que te hacen volver en el tiempo y pensar en cuando eras solo un niñx o un adolescente. Incluso puede que todavía guardes la manilla de tu primera fiesta, la boleta del primer artista que viste en vivo o el flyer del primer festival de música al que fuiste.
+
+Por eso, en esta colección podrás navegar entre revistas, discos, juguetes y otros objetos que te dan un vistazo a mi pasado —y quizás también a una época que fue parte del tuyo.
+
+
+## Prepárate y disfruta de este viaje en el tiempo.
+
+Pero antes, te invito a que escuches este himno.
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2TTYIwTM2iLC1YOyHuhRMt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

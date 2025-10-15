@@ -1,0 +1,192 @@
+{
+  "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Flyer del Festival Estéreo Picnic 2016"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/canvas-0.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1400,
+                "width": 1705
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1705,
+      "height": 1400,
+      "annotations": []
+    },
+    {
+      "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/canvas-1.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/page-1.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/image-1.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/canvas-1.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/1/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1391,
+                "width": 1673
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1673,
+      "height": 1391,
+      "annotations": []
+    },
+    {
+      "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/canvas-2.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/page-2.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/image-2.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/canvas-2.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1436,
+                "width": 3321
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 3321,
+      "height": 1436,
+      "annotations": []
+    },
+    {
+      "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/canvas-3.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/page-3.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/image-3.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/canvas-3.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1410,
+                "width": 3347
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 3347,
+      "height": 1410,
+      "annotations": []
+    },
+    {
+      "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/canvas-4.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/page-4.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/image-4.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/canvas-4.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/4/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2480,
+                "width": 3507
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 3507,
+      "height": 2480,
+      "annotations": []
+    },
+    {
+      "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/canvas-5.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/page-5.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/image-5.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/manifest/canvas-5.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FEP_2016/5/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1397,
+                "width": 1699
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1699,
+      "height": 1397,
+      "annotations": []
+    }
+  ]
+}

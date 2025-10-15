@@ -11,46 +11,49 @@ layout: page
   import VizTree from '$components/VizTree.svelte';
 </script>
 
-# Recorrido por la colección
+# Guía para viajar al pasado
 
-Esta colección de muestra recopila varias imágenes con representaciones alegóricas de América tomadas de [Rijksstudio](https://www.rijksmuseum.nl/en), la colección digital del Rijks Museum de Países Bajos. Todas las imágenes usadas están en el dominio público.
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7yMlw1v4NHmIcoRKdS1IJZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Usa este archivo para incluir contenido que permita hacer un recorrido por la colección.
+## Un solo clic y boom: estás de regreso en los 90s y los 2000.
 
-Para poner una imagen correspondiente a un ítem de la colección en este recorrido, usa el componente ItemPreview: 
+Piensa en esto como un recorrido libre por un relicario pop emocional de mi niñez, adolescencia y primeros años de adultez (quizás hasta puedes encontrar objetos que también reposaban en tu habitación). Puedes moverte entre objetos, fechas y canciones; abrir cada uno, mirar sus detalles, sus portadas, sus historias. 
 
-`<ItemPreview pid="PID" title="TÍTULO" alt="TEXTO ALTERNATIVO" page="PÁGINA DEL ÍTEM (opcional)">`
+Recuerda: cada clic te acerca un poco más a esa versión tuya que coleccionaba cosas sin saber que, algún día, serían memoria.
 
-Así se mostrará una imagen que, si se cliquea, te llevará al elemento de la colección correspondiente.
+Este es un rincón para volver a mis primeros amores: los discos que marcaron mi infancia, las revistas que hojeaba sin parar, los juguetes que me hacían soñar y los objetos que aún guardan mi amor por los festivales de música.
 
-Así:
+<ItemPreview pid="Revista_Pop_Star04" alt="Esta revista la compré en Richmond, Virginia el mismo año en el que el mundo conocía a Justin Bieber, en el que Katy Perry encabezaba los charts de música y en el que Taylor Swift apenas entraba en su era de Speak Now" />
 
-<ItemPreview pid="AdriaenCollaert" title="Por Adriaen Collaert" />
+Esta revista la compré en Richmond, Virginia el mismo año en el que el mundo conocía a Justin Bieber, en el que Katy Perry encabezaba los charts de música y en el que Taylor Swift apenas entraba en su era de Speak Now. 
 
-También puedes usar urls de imágenes externas con normalidad en el formato Markdown.
+<ItemPreview pid="Disco_Red01" alt="Este disco de Taylor Swift fue un hito en su carrera, marcando su transición de la música country a un sonido más pop." />
 
-## Elementos interactivos
+Red suena a mi último año de colegio, al viaje a Atlanta donde lo compré y a esa obsesión colectiva por ser hipers y usar labial rojo. También suena a mi intercambio en Inglaterra, a los días en Londres y las canciones que me hicieron sentir que todo estaba a punto de empezar. 
 
-## Gráfico de barras
+<ItemPreview pid="Juguete_Polly_Pocket01" />
 
-`<VizBarChart key="columna con valor categórico" top="numero de barras con mayor conteo (opcional, por defecto 10)/>`
+Esta cámara de Polly Pocket, que me mandó mi tía que vive en Nueva York, es uno de los tesoros de mi infancia. Siempre me pareció mágico que dentro tuviera una casita tan pequeña; podía pasar horas abriéndola y descubriendo cada detalle, como si guardara un mundo secreto solo para mí.
 
-<VizBarChart key="autor"/>
+<ItemPreview pid="Flyer_FEP_2016" />
 
-## Histograma
+Este es un flyer del primer Festival Estéreo Picnic al que asistí, en 2016. Recuerdo la emoción de ver a Kygo en vivo, la energía del público y la sensación de estar viviendo un momento único. Este flyer es un recuerdo tangible de esa experiencia inolvidable.
 
-`<VizBarChart key="columna con valor numérico" />`
+## ¿Cuál es el objeto que más tengo en mi colección?
 
-<VizHistogram key="fecha"/>
+Explora qué tipo de objetos dominan mi archivo: ¿revistas, discos, juguetes o recuerdos de festivales?
 
-## Árbol jerárquico
+<VizBarChart key="articulo"/>
 
-`<VizTree key="Array con columnas con valores categóricos" metadata="metadatos prefiltrados (opcional)"/>`
+## ¿Dónde compré mis objetos más preciados?
 
-<VizTree keys={["autor", "label"]}/>
+Desde tiendas locales hasta viajes inolvidables: descubre los lugares donde encontré cada uno de estos tesoros.
 
-## Línea de tiempo
+<VizTree keys={["articulo", "label", "pais_de_compra"]}/>
+<VizTree keys={["articulo", "ciudad_de_compra"]}/>
 
-`<VizTimeline dateKey="columna con fecha" metadata="metadatos prefiltrados (opcional)">`
+## Tres décadas de recuerdos
 
-<VizTimeline dateKey="fecha"/>
+Así se ven treinta años contados a través de las cosas que nunca quise olvidar.
+
+<VizTimeline dateKey="fecha_de_adquisicion" />

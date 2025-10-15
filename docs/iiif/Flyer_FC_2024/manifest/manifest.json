@@ -1,0 +1,72 @@
+{
+  "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FC_2024/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Flyer del Festival Cordillera 2024"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FC_2024/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FC_2024/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FC_2024/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FC_2024/manifest/canvas-0.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FC_2024/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2235,
+                "width": 1759
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1759,
+      "height": 2235,
+      "annotations": []
+    },
+    {
+      "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FC_2024/manifest/canvas-1.json",
+      "items": [
+        {
+          "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FC_2024/manifest/page-1.json",
+          "items": [
+            {
+              "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FC_2024/manifest/image-1.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FC_2024/manifest/canvas-1.json",
+              "body": {
+                "id": "https://manubarrera311995.github.io/serie-mini/iiif/Flyer_FC_2024/1/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2224,
+                "width": 1759
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1759,
+      "height": 2224,
+      "annotations": []
+    }
+  ]
+}

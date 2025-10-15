@@ -5,8 +5,8 @@ layout: page
 
 # Créditos
 
-Esta colección fue creada por [Sergio Rodríguez Gómez](https://srsergiorodriguez.github.io/).
+Esta colección fue creada por [Manuela Barrera Nieto](https://www.instagram.com/manubarrera31/?hl=es).
 
 Basada en la plantilla [Serie Mini](https://github.com/srsergiorodriguez/serie-mini), para la creación de colecciones digitales, creada por [Sergio Rodríguez Gómez](https://srsergiorodriguez.github.io/).
 
-Las imágenes provienen del [Rijksstudio](https://www.rijksmuseum.nl/en), la colección digital del Rijks Museum de Países Bajos. Todas las imágenes usadas están en el dominio público.
+Todas las imágenes provienen de mi archivo personal de objetos (y también de muchos recuerdos) Por favor, no las uses sin permiso. 

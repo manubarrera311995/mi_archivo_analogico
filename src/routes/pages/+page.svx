@@ -8,9 +8,13 @@ layout: page
   import Gallery from '$components/Gallery.svelte';
 </script>
 
-# Explorar
+# Dale play a tu viaje en el tiempo
 
-Usa los componentes interactivos para explorar los ítems de la colección:
+Walter Benjamin decía que los objetos cotidianos guardan constelaciones de tiempo y deseo. Cada artículo evoca un fragmento de nuestra historia: una emoción, un recuerdo, un contexto que a veces pasa desapercibido. 
+
+Por eso, los objetos que elegimos conservar acumulan capas de memoria: la revista que compramos en un viaje, el primer disco que nos regalaron, la boleta de ese concierto inolvidable o el juguete que sobrevivió al paso del tiempo son capítulos en movimiento, archivos vivos que no necesitan un disco duro, sino un rincón en los lugares que habitamos.
+
+## Ahora, te invito a usar los elementos interactivos para chismosear la colección. 
 
 <SearchBar />
 <Gallery filters={["label", "autor"]}/>

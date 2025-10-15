@@ -2,37 +2,42 @@ const config = {
   "lang": "es",
   "localPort": "5173",
   "base": "https://manubarrera311995.github.io",
-  "baseurl": "/mi_archivo_analogico",
-  "title": "Archivo 1995",
-  "subtitle": "Bienvenidx a mi archivo analógico",
-  "credits": " Por:Manuela Barrera Nieto ",
-  "copyright": "(Todos los derechos reservados)",
+  "baseurl": "/serie-mini",
+  "title": "Archivo 95'",
+  "subtitle": "Bienvenidx a mi relicario pop.",
+  "credits": "Por Manuela Barrera Nieto",
+  "copyright": "Todos los derechos reservados, 2025",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
+        "key": "label",
+        "label": "Label",
+        "type": "text"
+      },
+      {
         "key": "articulo",
-        "label": "Artículo",
+        "label": "Articulo",
         "type": "text"
       },
       {
-        "key": "pais_de_fabricacion ",
-        "label": "País de fabricación ",
+        "key": "pais_de_fabricacion",
+        "label": "Pais_de_fabricacion",
         "type": "text"
       },
       {
-        "key": "fecha_de_adquisicion ",
-        "label": "Fecha de adquisición ",
+        "key": "fecha_de_adquisicion",
+        "label": "Fecha_de_adquisicion",
         "type": "text"
       },
       {
         "key": "fecha_de_publicacion",
-        "label": "Fecha de publicación",
+        "label": "Fecha_de_publicacion",
         "type": "text"
       },
       {
-        "key": "colores ",
-        "label": "Colores ",
+        "key": "colores",
+        "label": "Colores",
         "type": "text"
       },
       {
@@ -42,17 +47,17 @@ const config = {
       },
       {
         "key": "ciudad_de_compra",
-        "label": "Ciudad de compra",
+        "label": "Ciudad_de_compra",
         "type": "text"
       },
       {
         "key": "casa_editorial",
-        "label": "Casa editorial",
+        "label": "Casa_editorial",
         "type": "text"
       },
       {
         "key": "pais_de_compra",
-        "label": "País de compra",
+        "label": "Pais_de_compra",
         "type": "text"
       },
       {
@@ -67,7 +72,7 @@ const config = {
       },
       {
         "key": "cancion_asociada_al_objeto",
-        "label": "Canción asociada al objeto",
+        "label": "Cancion_asociada_al_objeto",
         "type": "text"
       },
       {
@@ -77,12 +82,13 @@ const config = {
       }
     ],
     "metadataToIndex": [
+      "pid",
       "label",
       "articulo",
-      "pais_de_fabricacion ",
-      "fecha_de_adquisicion ",
+      "pais_de_fabricacion",
+      "fecha_de_adquisicion",
       "fecha_de_publicacion",
-      "colores ",
+      "colores",
       "marca",
       "ciudad_de_compra",
       "casa_editorial",
@@ -90,7 +96,8 @@ const config = {
       "tema",
       "portada",
       "cancion_asociada_al_objeto",
-      "artista"
+      "artista",
+      "imagenes"
     ]
   }
 };

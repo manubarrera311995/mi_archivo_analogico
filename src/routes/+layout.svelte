@@ -1,7 +1,7 @@
 <svelte:head>
   <style>
-      @import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Double+Ink:wght@100..900&family=Castoro:ital@0;1&display=swap');
-      @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;1,300&display=swap');
   </style>
 </svelte:head>
 
@@ -9,20 +9,24 @@
 
 <style>
   :global(:root){
-    --stroke: black; /* Font color */
-    --fill: #fdfcfa; /* Background color */
-    --accent1: #eb6de0; /* Main color */
-    --accent2: #0b456c; /* Higlights color */
-    --mainfont: "Lato", sans-serif;
-    --headerfont: "Castoro", serif;
+    --stroke: rgb(249, 206, 117); /* Font color */
+    --fill: #e22797; /* Background color */
+    --accent1: #e22797; /* Main color */
+    --accent2: #F9D380; /* Higlights color */
+    --mainfont: "Source Sans 3", sans-serif;
+    --headerfont: "Space Mono", serif;
     font-family: var(--mainfont);
   }
 
   :global(body) {
-    padding: 0px;
-    margin: 0px;
+    padding: 0%;
+    margin-top: 0%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
     background: var(--fill);
     color: var(--stroke);
+    cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32'><text y='24' font-size='24'>🪩</text></svg>") 16 16, auto;
   }
 
   :global(button, select, input) {
